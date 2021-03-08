@@ -1,0 +1,42 @@
+header{
+    background-color: #46BDC6;
+    padding: 5px;
+}
+
+header a{
+    color: white;
+    font-size: 1.7em;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+h1{
+    margin: 15px;
+    text-decoration: underline wheat;
+    font-size: 1.3em;
+}
+
+h2{
+    font-size: 1em;
+}
+
+section{
+    margin: 30px;
+}
+
+article{
+    background-color: #f7f4f4;
+    padding: 20px;
+    margin: 10px;
+}
+
+article h3{
+    color: rgb(199, 161, 91);
+    font-size: 1.1em;
+}
+
+article a{
+    color : #46BDC6;
+    text-decoration: none;
+    font-weight: bold;
+}

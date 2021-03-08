@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: greenyellow;
+}
+
+.clochette{
+    background: url(clochette.jpg) center center;
+    width: 400px;
+    height: 600px;
+}
+
+.bricoleuse{
+    background: url(bouton.jpg) center center;
+    width: 600px;
+    height: 600px;
+}
+
+.brico{
+    background: url(brico.jpg) center center no-repeat;
+    width: 600px;
+    height: 600px;
+}
+
+h2{
+    color: rgb(120, 192, 13);
+}
+
+.patience{
+    background: url(patiente.jpg) center center no-repeat;
+    width: 900px;
+    height: 700px;
+}
+
+h3{
+    color: rgb(120, 192, 13);
+}
+
+.fée{
+    background: url(fée.jpg) center center no-repeat;
+    width: 900px;
+    height: 700px;
+}
